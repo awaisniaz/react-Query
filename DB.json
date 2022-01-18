@@ -1,0 +1,19 @@
+{
+    "superheros":[
+        {
+            "id":1,
+            "name":"Batman",
+            "alterEgo":"Bruse WaYNE"
+        },
+        {
+            "id":2,
+            "name":"Batman",
+            "alterEgo":"Bruse WaYNE"
+        },
+        {
+            "id":3,
+            "name":"Batman",
+            "alterEgo":"Bruse WaYNE"
+        }
+    ]
+}
